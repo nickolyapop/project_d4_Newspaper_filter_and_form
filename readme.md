@@ -1,4 +1,4 @@
-#  решение задания проекта по Django, Модуль D4 Фильтры и формы  Skillfactory
+# проект NewsPaper по Django, Модуль D4 Фильтры и формы  Skillfactory
 
 ## Запуск проекта
 
