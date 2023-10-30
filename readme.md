@@ -14,7 +14,7 @@
 
     2.2 В Windows _GitBash_
 
-        source venv/Sripts/activate
+        source venv/Scripts/activate
 
     2.3 Linux, MacOS
 
