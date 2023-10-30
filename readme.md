@@ -10,7 +10,7 @@
 
     2.1 В Windows _PowerShell_ или _cmd_
 
-        venv\Sripts\activate
+        venv\Scripts\activate
 
     2.2 В Windows _GitBash_
 
